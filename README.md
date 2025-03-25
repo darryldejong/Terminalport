@@ -6,6 +6,6 @@ Features 🦖
 - IPv4 and IPv6 Support: The script can handle both IPv4 and IPv6 addresses.
 - Progress Display: A progress bar indicates the progress of the scan.
 
-![Afbeelding](Afbeelding.png) 
+![Afbeelding](/images/image.png) 
 
 (You can adjust the port range in the Python file.)
